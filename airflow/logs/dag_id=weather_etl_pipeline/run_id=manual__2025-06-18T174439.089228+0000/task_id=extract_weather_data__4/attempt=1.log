@@ -1,0 +1,4 @@
+{"timestamp":"2025-06-18T17:44:41.217165","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-18T17:44:41.218096","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-18T17:44:41.323169","level":"error","event":"Task not found in DAG during start up","dag_id":"weather_etl_pipeline","task_id":"extract_weather_data__4","bundle":"BundleInfo(name='dags-folder', version=None)","path":"weather.py","logger":"task"}
+{"timestamp":"2025-06-18T17:44:41.345878Z","level":"warning","event":"Process exited abnormally","exit_code":1,"logger":"task"}
