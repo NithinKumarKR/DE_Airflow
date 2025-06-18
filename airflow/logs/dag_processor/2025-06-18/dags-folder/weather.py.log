@@ -571,3 +571,4 @@
 {"timestamp":"2025-06-18T17:46:46.116637","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-18T17:47:17.201442","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-18T17:47:48.351038","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-18T17:48:18.906264","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather.py","logger":"airflow.models.dagbag.DagBag"}
