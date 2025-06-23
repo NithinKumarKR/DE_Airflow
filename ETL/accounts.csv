@@ -1,0 +1,506 @@
+customer_id,first_name,last_name,address_1,address_2,city,state,zip_code,join_date
+1000,Camila,Oliveira,2977 Rua do Comércio,Apto 124,Belo Horizonte,RS,66366,2022-03-17
+1001,Thiago,Lima,428 Avenida Brasil,Apto 173,Belo Horizonte,RS,85305,2022-09-06
+1002,Aline,Oliveira,8687 Alameda dos Anjos,Apto 382,Salvador,BA,58878,2022-07-30
+1003,Aline,Cardoso,8676 Rua do Comércio,Apto 229,Curitiba,DF,24338,2024-12-16
+1004,Fernanda,Costa,2701 Avenida Brasil,Apto 486,Brasília,RS,34158,2023-10-14
+1005,Fernanda,Ferreira,8262 Avenida Paulista,Apto 370,Salvador,RS,85863,2023-10-03
+1006,Thiago,Vieira,6078 Rua XV de Novembro,Apto 119,Curitiba,BA,87139,2023-05-20
+1007,Camila,Cardoso,8132 Rua das Flores,Apto 416,Rio de Janeiro,DF,28109,2022-01-19
+1008,Lucas,Mendes,6493 Rua da Paz,Apto 173,São Paulo,CE,12292,2022-12-18
+1009,Carla,Barbosa,2651 Avenida Central,Apto 343,Salvador,CE,19445,2024-10-04
+1010,Thiago,Mendes,8576 Alameda dos Anjos,Apto 150,Salvador,RS,32618,2022-03-28
+1011,Rafael,Santos,6377 Rua das Flores,Apto 268,Fortaleza,PR,48760,2022-06-13
+1012,Leonardo,Teixeira,8917 Avenida Brasil,Apto 401,Curitiba,SP,59000,2022-03-03
+1013,Lucas,Oliveira,2499 Rua da Paz,Apto 265,Belo Horizonte,BA,68548,2022-02-03
+1014,Carla,Barbosa,7893 Travessa das Acácias,Apto 43,Rio de Janeiro,BA,57104,2022-07-21
+1015,Larissa,Barbosa,7037 Rua 7 de Setembro,Apto 58,Rio de Janeiro,RS,76882,2022-04-11
+1016,Fernanda,Mendes,7108 Rua XV de Novembro,Apto 224,Curitiba,BA,84834,2023-11-29
+1017,Fernanda,Teixeira,2748 Rua XV de Novembro,Apto 370,Brasília,DF,59076,2024-04-04
+1018,Thiago,Teixeira,8910 Rua da Paz,Apto 496,Belo Horizonte,BA,39481,2022-03-03
+1019,Carla,Mendes,2156 Rua da Paz,Apto 432,Rio de Janeiro,DF,47280,2024-04-03
+1020,Leonardo,Oliveira,8247 Rua da Paz,Apto 352,Porto Alegre,CE,38388,2022-06-29
+1021,Felipe,Silva,655 Rua XV de Novembro,Apto 414,Rio de Janeiro,PR,60211,2024-10-19
+1022,Maria,Ferreira,2979 Avenida Paulista,Apto 380,Salvador,PR,52875,2022-08-15
+1023,João,Nunes,6191 Rua 7 de Setembro,Apto 196,Curitiba,MG,51610,2024-05-20
+1024,Rafael,Ribeiro,1042 Alameda dos Anjos,Apto 33,Porto Alegre,BA,55760,2022-06-16
+1025,Carla,Lima,9062 Rua do Comércio,Apto 329,Fortaleza,BA,51051,2024-02-24
+1026,Camila,Costa,6773 Rua da Paz,Apto 91,Belo Horizonte,PR,62979,2022-11-20
+1027,Felipe,Ribeiro,6754 Travessa das Acácias,Apto 195,Fortaleza,PR,21430,2024-12-25
+1028,Felipe,Mendes,6589 Rua 7 de Setembro,Apto 53,Salvador,BA,44344,2024-10-02
+1029,Rafael,Costa,1090 Avenida Paulista,Apto 250,Porto Alegre,BA,78535,2022-07-23
+1030,Diego,Nunes,7978 Avenida Brasil,Apto 179,Salvador,RJ,20774,2024-07-17
+1031,Felipe,Teixeira,2199 Rua do Comércio,Apto 487,Porto Alegre,BA,28204,2022-01-30
+1032,Thiago,Souza,4420 Rua das Flores,Apto 213,São Paulo,BA,95025,2022-03-13
+1033,João,Silva,6806 Rua da Paz,Apto 238,Salvador,CE,53759,2024-11-27
+1034,Felipe,Almeida,5472 Alameda dos Anjos,Apto 233,Curitiba,SP,52459,2022-09-14
+1035,Felipe,Rodrigues,9475 Travessa das Acácias,Apto 252,Rio de Janeiro,DF,70626,2022-06-07
+1036,Ana,Santos,5259 Avenida Paulista,Apto 150,Salvador,BA,65846,2023-08-21
+1037,Maria,Barbosa,9267 Avenida Central,Apto 96,Porto Alegre,BA,61160,2024-04-22
+1038,Rafael,Rodrigues,3257 Rua da Paz,Apto 14,Curitiba,RS,44917,2022-07-29
+1039,Camila,Ribeiro,8175 Travessa das Acácias,Apto 496,Rio de Janeiro,SP,57022,2023-06-01
+1040,Ana,Gomes,8586 Rua XV de Novembro,Apto 102,Porto Alegre,RJ,87912,2024-10-17
+1041,Fernanda,Araújo,7795 Rua do Comércio,Apto 18,São Paulo,SP,35084,2022-05-02
+1042,Felipe,Rodrigues,4803 Rua XV de Novembro,Apto 114,Brasília,BA,12886,2022-04-20
+1043,João,Ribeiro,7517 Rua 7 de Setembro,Apto 388,Salvador,MG,21467,2022-12-13
+1044,Larissa,Mendes,9025 Avenida Central,Apto 3,São Paulo,SP,92456,2023-09-16
+1045,Rafael,Pereira,4537 Avenida Paulista,Apto 432,Salvador,MG,19734,2023-07-30
+1046,Fernanda,Martins,1324 Travessa das Acácias,Apto 250,Brasília,BA,27304,2022-08-29
+1047,Lucas,Souza,7845 Avenida Brasil,Apto 252,Belo Horizonte,RJ,98214,2022-07-17
+1048,Carla,Gomes,7409 Rua da Paz,Apto 347,Salvador,CE,57292,2023-03-01
+1049,Felipe,Lima,5177 Alameda dos Anjos,Apto 415,Porto Alegre,RJ,41571,2022-08-30
+1050,Mariana,Vieira,2117 Avenida Central,Apto 416,Salvador,CE,68077,2022-12-22
+1051,Rafael,Teixeira,3118 Rua 7 de Setembro,Apto 334,Curitiba,RS,87572,2024-03-07
+1052,Lucas,Rodrigues,6403 Rua 7 de Setembro,Apto 4,Curitiba,MG,61713,2022-10-06
+1053,Lucas,Oliveira,2691 Alameda dos Anjos,Apto 311,São Paulo,RS,22468,2024-07-03
+1054,Rafael,Nunes,8905 Rua das Flores,Apto 310,São Paulo,PR,17680,2023-09-15
+1055,Gustavo,Lima,6575 Travessa das Acácias,Apto 166,Porto Alegre,RS,26946,2024-03-25
+1056,Bruno,Nunes,2162 Rua do Comércio,Apto 257,Salvador,MG,76155,2022-04-04
+1057,Aline,Vieira,2687 Rua da Paz,Apto 327,Curitiba,DF,60614,2023-12-25
+1058,Mariana,Nunes,1333 Rua do Comércio,Apto 296,Curitiba,SP,27116,2022-08-20
+1059,Diego,Almeida,4739 Avenida Paulista,Apto 474,Fortaleza,SP,97399,2023-09-15
+1060,Gustavo,Gomes,287 Avenida Central,Apto 294,Porto Alegre,SP,83550,2023-02-08
+1061,Pedro,Ribeiro,9931 Rua 7 de Setembro,Apto 34,Belo Horizonte,RS,23855,2024-05-28
+1062,Camila,Souza,3856 Avenida Paulista,Apto 234,Salvador,CE,43804,2022-05-11
+1063,João,Mendes,5791 Rua das Flores,Apto 70,Fortaleza,PR,20278,2023-10-28
+1064,Leonardo,Araújo,8272 Rua XV de Novembro,Apto 195,Porto Alegre,RS,18408,2023-01-24
+1065,Rafael,Martins,1496 Rua 7 de Setembro,Apto 76,Rio de Janeiro,CE,96563,2022-03-25
+1066,Camila,Santos,9478 Avenida Central,Apto 5,Curitiba,MG,64952,2022-09-07
+1067,Felipe,Silva,8268 Avenida Paulista,Apto 80,Salvador,RJ,90771,2024-03-09
+1068,Pedro,Martins,9467 Alameda dos Anjos,Apto 184,Porto Alegre,DF,19133,2023-08-11
+1069,Ana,Silva,762 Rua XV de Novembro,Apto 332,São Paulo,RJ,80075,2023-08-31
+1070,Carla,Lima,422 Travessa das Acácias,Apto 410,Curitiba,CE,73413,2022-04-16
+1071,Aline,Mendes,2276 Rua das Flores,Apto 285,Porto Alegre,RJ,16103,2024-01-16
+1072,Carla,Araújo,1048 Travessa das Acácias,Apto 116,São Paulo,BA,89712,2022-09-08
+1073,Patrícia,Araújo,1489 Travessa das Acácias,Apto 242,Porto Alegre,MG,31691,2024-03-31
+1074,Maria,Rodrigues,7498 Avenida Central,Apto 234,Brasília,MG,59977,2024-02-28
+1075,Thiago,Barbosa,7401 Avenida Central,Apto 192,São Paulo,CE,70402,2024-02-02
+1076,Thiago,Lima,6680 Alameda dos Anjos,Apto 314,Porto Alegre,BA,73406,2024-09-16
+1077,Thiago,Ferreira,5694 Rua do Comércio,Apto 219,São Paulo,MG,31118,2023-11-13
+1078,Lucas,Rodrigues,5397 Rua do Comércio,Apto 429,Brasília,MG,97901,2023-03-28
+1079,Lucas,Costa,6520 Rua das Flores,Apto 264,Belo Horizonte,CE,15202,2023-11-15
+1080,Camila,Rodrigues,2000 Avenida Brasil,Apto 271,Belo Horizonte,RS,36742,2024-07-25
+1081,Carla,Gomes,6050 Rua das Flores,Apto 383,Salvador,RJ,46456,2023-07-08
+1082,Felipe,Pereira,9758 Avenida Central,Apto 199,São Paulo,PR,51765,2022-02-06
+1083,Camila,Costa,9646 Travessa das Acácias,Apto 376,Rio de Janeiro,CE,14648,2022-07-01
+1084,Camila,Nunes,6528 Avenida Central,Apto 98,Brasília,CE,23857,2024-10-06
+1085,Fernanda,Costa,2127 Rua do Comércio,Apto 414,Salvador,RS,34072,2023-05-09
+1086,Thiago,Santos,8731 Avenida Paulista,Apto 413,Fortaleza,DF,67331,2024-11-06
+1087,Maria,Vieira,9267 Avenida Paulista,Apto 284,Porto Alegre,CE,59153,2022-02-04
+1088,Rafael,Nunes,6998 Rua da Paz,Apto 496,Belo Horizonte,BA,97011,2023-06-16
+1089,Carla,Araújo,4587 Travessa das Acácias,Apto 174,Curitiba,CE,79804,2023-10-29
+1090,Leonardo,Teixeira,4837 Rua das Flores,Apto 85,Fortaleza,DF,70130,2024-01-31
+1091,Ana,Souza,5842 Avenida Brasil,Apto 208,Salvador,MG,70762,2023-04-30
+1092,Gustavo,Martins,5045 Avenida Central,Apto 12,São Paulo,CE,15724,2022-07-20
+1093,Larissa,Mendes,1066 Rua do Comércio,Apto 487,Belo Horizonte,DF,49879,2024-12-06
+1094,Thiago,Cardoso,2642 Travessa das Acácias,Apto 440,Belo Horizonte,RS,88736,2024-12-26
+1095,Felipe,Almeida,3756 Travessa das Acácias,Apto 161,Rio de Janeiro,RJ,47827,2023-12-15
+1096,Fernanda,Oliveira,1099 Rua do Comércio,Apto 449,Belo Horizonte,BA,69064,2024-07-26
+1097,Patrícia,Almeida,533 Rua das Flores,Apto 373,Salvador,CE,41686,2023-09-09
+1098,Maria,Araújo,8035 Rua XV de Novembro,Apto 273,Rio de Janeiro,MG,10687,2023-12-04
+1099,Aline,Martins,8616 Avenida Paulista,Apto 333,Curitiba,DF,65527,2023-04-27
+1100,Rafael,Barbosa,9828 Alameda dos Anjos,Apto 238,Salvador,CE,43246,2023-07-08
+1101,João,Ferreira,3924 Rua do Comércio,Apto 41,Curitiba,RS,49490,2022-05-02
+1102,Bruno,Araújo,3790 Rua 7 de Setembro,Apto 138,Porto Alegre,RS,50974,2023-11-30
+1103,Patrícia,Vieira,9464 Rua 7 de Setembro,Apto 264,São Paulo,RJ,66091,2022-06-30
+1104,Ana,Silva,2903 Rua 7 de Setembro,Apto 436,Belo Horizonte,CE,16434,2024-03-09
+1105,Leonardo,Teixeira,3618 Avenida Brasil,Apto 270,Fortaleza,DF,36311,2023-02-14
+1106,Pedro,Silva,838 Rua do Comércio,Apto 293,Belo Horizonte,RJ,46821,2023-09-02
+1107,João,Martins,5056 Alameda dos Anjos,Apto 387,Salvador,RJ,39550,2024-09-03
+1108,Carla,Ferreira,3591 Travessa das Acácias,Apto 478,Curitiba,BA,45294,2023-11-24
+1109,Lucas,Cardoso,7568 Rua das Flores,Apto 53,Curitiba,PR,79606,2022-02-27
+1110,Carla,Silva,3215 Travessa das Acácias,Apto 117,Curitiba,SP,42126,2023-08-05
+1111,Leonardo,Martins,6651 Rua das Flores,Apto 320,Curitiba,MG,55532,2024-02-14
+1112,Larissa,Costa,130 Rua da Paz,Apto 398,Fortaleza,MG,26092,2024-10-15
+1113,Aline,Oliveira,727 Rua da Paz,Apto 216,Porto Alegre,CE,85097,2024-08-20
+1114,Thiago,Martins,3048 Travessa das Acácias,Apto 212,Salvador,RS,57553,2024-01-21
+1115,Maria,Martins,3496 Rua XV de Novembro,Apto 94,Rio de Janeiro,PR,31390,2023-05-30
+1116,Beatriz,Souza,5145 Alameda dos Anjos,Apto 178,Belo Horizonte,RS,59196,2023-12-11
+1117,Leonardo,Mendes,2343 Avenida Central,Apto 60,Porto Alegre,RJ,47826,2022-07-16
+1118,Fernanda,Santos,6003 Alameda dos Anjos,Apto 480,Brasília,BA,73528,2022-07-15
+1119,Aline,Santos,9193 Avenida Brasil,Apto 30,Salvador,MG,51859,2023-03-11
+1120,Maria,Lima,5503 Avenida Brasil,Apto 447,Curitiba,BA,32595,2023-12-30
+1121,Mariana,Pereira,9237 Rua das Flores,Apto 46,Belo Horizonte,CE,27532,2022-05-29
+1122,Camila,Cardoso,4215 Avenida Central,Apto 344,Salvador,CE,16579,2022-08-15
+1123,Mariana,Martins,6854 Rua do Comércio,Apto 350,São Paulo,CE,20892,2023-06-13
+1124,Carla,Ferreira,3278 Travessa das Acácias,Apto 241,Salvador,MG,45287,2022-03-25
+1125,Maria,Costa,6241 Rua XV de Novembro,Apto 148,São Paulo,BA,31724,2022-07-26
+1126,Felipe,Almeida,4921 Avenida Central,Apto 360,Salvador,CE,82394,2024-02-29
+1127,Larissa,Mendes,7275 Avenida Central,Apto 475,Rio de Janeiro,CE,18948,2022-09-05
+1128,João,Martins,4785 Rua XV de Novembro,Apto 389,Belo Horizonte,RJ,15588,2022-05-22
+1129,Gustavo,Martins,9615 Avenida Brasil,Apto 27,São Paulo,RJ,84458,2024-10-20
+1130,Camila,Ferreira,3780 Alameda dos Anjos,Apto 84,Belo Horizonte,DF,74754,2022-09-06
+1131,Rafael,Araújo,5934 Avenida Paulista,Apto 57,Salvador,SP,51688,2023-06-05
+1132,João,Pereira,575 Rua do Comércio,Apto 28,Belo Horizonte,CE,55658,2022-04-06
+1133,Rafael,Barbosa,5216 Rua do Comércio,Apto 129,Brasília,RS,47129,2022-04-03
+1134,Ana,Gomes,6362 Avenida Central,Apto 279,Belo Horizonte,DF,12214,2023-08-16
+1135,Fernanda,Nunes,5096 Rua das Flores,Apto 159,Fortaleza,RS,48540,2024-03-31
+1136,Leonardo,Mendes,1114 Alameda dos Anjos,Apto 95,Curitiba,CE,11302,2024-11-02
+1137,Gustavo,Silva,7565 Travessa das Acácias,Apto 9,Fortaleza,PR,67656,2022-07-28
+1138,Larissa,Oliveira,7581 Alameda dos Anjos,Apto 117,Curitiba,CE,42391,2024-12-26
+1139,Beatriz,Araújo,7761 Rua das Flores,Apto 4,Brasília,BA,96844,2022-10-11
+1140,Pedro,Mendes,2660 Avenida Paulista,Apto 392,Belo Horizonte,RS,16560,2023-03-20
+1141,Larissa,Santos,2961 Avenida Brasil,Apto 445,Rio de Janeiro,RS,87315,2024-10-27
+1142,Lucas,Souza,6368 Rua das Flores,Apto 359,Brasília,CE,71057,2023-04-15
+1143,Camila,Rodrigues,2836 Rua das Flores,Apto 77,Porto Alegre,DF,69878,2022-11-01
+1144,Bruno,Teixeira,316 Rua do Comércio,Apto 176,Fortaleza,BA,77484,2022-08-20
+1145,Leonardo,Lima,3667 Avenida Paulista,Apto 195,Curitiba,CE,93275,2022-09-23
+1146,Gustavo,Pereira,3727 Travessa das Acácias,Apto 465,Curitiba,SP,53797,2024-08-08
+1147,Larissa,Souza,1363 Rua da Paz,Apto 410,Brasília,RJ,24595,2022-08-09
+1148,Bruno,Araújo,87 Avenida Paulista,Apto 404,Brasília,RS,83741,2024-01-22
+1149,Felipe,Ribeiro,556 Rua 7 de Setembro,Apto 473,Curitiba,DF,95952,2023-08-05
+1150,Thiago,Almeida,1149 Rua do Comércio,Apto 157,Porto Alegre,DF,86819,2023-12-14
+1151,Pedro,Silva,7807 Rua das Flores,Apto 194,Curitiba,DF,96588,2022-10-22
+1152,Patrícia,Silva,2704 Rua XV de Novembro,Apto 102,Porto Alegre,RS,46045,2023-07-15
+1153,Gustavo,Vieira,5756 Rua da Paz,Apto 147,Belo Horizonte,SP,95823,2022-07-10
+1154,Leonardo,Souza,7796 Avenida Paulista,Apto 262,Rio de Janeiro,BA,99913,2022-09-05
+1155,Diego,Silva,7193 Rua XV de Novembro,Apto 153,Rio de Janeiro,PR,85962,2024-11-24
+1156,Mariana,Barbosa,6916 Rua do Comércio,Apto 81,São Paulo,RS,12801,2024-01-20
+1157,Gustavo,Costa,3013 Rua XV de Novembro,Apto 350,Porto Alegre,PR,26310,2023-11-14
+1158,Lucas,Oliveira,7515 Rua 7 de Setembro,Apto 310,São Paulo,RJ,34488,2022-01-21
+1159,Rafael,Mendes,2985 Rua das Flores,Apto 495,Curitiba,PR,58402,2022-01-12
+1160,Leonardo,Mendes,1728 Travessa das Acácias,Apto 70,Curitiba,MG,32857,2023-12-19
+1161,Ana,Costa,4213 Rua da Paz,Apto 18,São Paulo,CE,15922,2024-08-16
+1162,Camila,Cardoso,2495 Alameda dos Anjos,Apto 200,Porto Alegre,DF,57732,2023-01-30
+1163,Carla,Cardoso,4481 Rua da Paz,Apto 410,Brasília,PR,30514,2024-11-07
+1164,João,Almeida,2085 Travessa das Acácias,Apto 286,Brasília,SP,81970,2023-05-17
+1165,Diego,Mendes,5788 Rua das Flores,Apto 351,Rio de Janeiro,RS,21824,2022-05-17
+1166,Mariana,Ferreira,8345 Avenida Paulista,Apto 115,Curitiba,SP,87509,2024-12-01
+1167,Bruno,Costa,6100 Rua das Flores,Apto 474,Curitiba,DF,15785,2022-09-10
+1168,Felipe,Silva,8399 Avenida Paulista,Apto 64,Curitiba,RJ,44483,2024-03-19
+1169,Mariana,Teixeira,3863 Rua XV de Novembro,Apto 4,Salvador,BA,15740,2024-07-14
+1170,Beatriz,Oliveira,4045 Alameda dos Anjos,Apto 82,Rio de Janeiro,CE,60648,2024-12-11
+1171,Felipe,Oliveira,6365 Avenida Paulista,Apto 279,Rio de Janeiro,MG,89387,2024-04-23
+1172,Carla,Gomes,1743 Rua das Flores,Apto 282,Porto Alegre,RJ,58902,2022-10-13
+1173,Bruno,Silva,4686 Alameda dos Anjos,Apto 20,Curitiba,RS,95270,2022-06-27
+1174,Beatriz,Ribeiro,3140 Rua da Paz,Apto 91,Curitiba,BA,10520,2022-05-07
+1175,João,Santos,5125 Rua das Flores,Apto 303,Belo Horizonte,CE,42977,2022-05-23
+1176,Beatriz,Ferreira,9323 Rua do Comércio,Apto 172,Rio de Janeiro,CE,25256,2022-03-06
+1177,Bruno,Gomes,7886 Alameda dos Anjos,Apto 360,Porto Alegre,MG,48293,2023-05-25
+1178,Patrícia,Nunes,5901 Avenida Brasil,Apto 128,Rio de Janeiro,DF,35871,2022-09-03
+1179,Fernanda,Ferreira,9742 Avenida Brasil,Apto 218,São Paulo,PR,43594,2022-09-07
+1180,Camila,Almeida,817 Travessa das Acácias,Apto 208,Brasília,BA,67241,2023-04-18
+1181,Maria,Rodrigues,8976 Rua das Flores,Apto 493,Curitiba,BA,21368,2023-02-16
+1182,João,Lima,4015 Avenida Central,Apto 185,Curitiba,BA,77745,2023-03-25
+1183,Leonardo,Pereira,9804 Avenida Central,Apto 194,Fortaleza,DF,88809,2023-08-10
+1184,Camila,Barbosa,4100 Avenida Central,Apto 35,Salvador,DF,29139,2024-12-03
+1185,João,Teixeira,1753 Travessa das Acácias,Apto 211,Fortaleza,DF,82255,2023-03-06
+1186,Larissa,Santos,8835 Rua das Flores,Apto 275,Brasília,SP,18062,2022-01-14
+1187,Felipe,Pereira,7963 Rua da Paz,Apto 17,Brasília,DF,24270,2022-03-23
+1188,Camila,Santos,8061 Rua 7 de Setembro,Apto 69,Belo Horizonte,PR,72517,2022-05-22
+1189,Beatriz,Gomes,7017 Avenida Paulista,Apto 438,Rio de Janeiro,DF,80841,2022-06-14
+1190,Felipe,Rodrigues,7098 Avenida Brasil,Apto 184,Curitiba,RS,36175,2023-03-22
+1191,Thiago,Barbosa,6407 Rua da Paz,Apto 160,Rio de Janeiro,DF,82349,2022-01-11
+1192,Felipe,Ferreira,888 Rua do Comércio,Apto 45,Belo Horizonte,MG,35517,2023-06-07
+1193,Camila,Cardoso,1002 Rua do Comércio,Apto 250,Porto Alegre,BA,65618,2024-02-25
+1194,Carla,Vieira,9835 Avenida Paulista,Apto 255,São Paulo,CE,31967,2024-09-08
+1195,Larissa,Silva,4245 Travessa das Acácias,Apto 188,Belo Horizonte,DF,51057,2023-09-14
+1196,Pedro,Souza,6377 Rua XV de Novembro,Apto 351,Porto Alegre,PR,94313,2024-08-05
+1197,Lucas,Ribeiro,5980 Rua XV de Novembro,Apto 401,Rio de Janeiro,CE,53838,2023-07-17
+1198,Pedro,Rodrigues,3319 Rua 7 de Setembro,Apto 251,Porto Alegre,MG,90363,2024-06-08
+1199,Leonardo,Lima,7527 Avenida Central,Apto 125,Curitiba,RS,20551,2023-09-01
+1200,Felipe,Araújo,4776 Alameda dos Anjos,Apto 307,Salvador,DF,33499,2023-06-15
+1201,Fernanda,Souza,6470 Alameda dos Anjos,Apto 31,Salvador,PR,30899,2022-09-13
+1202,Ana,Santos,4541 Rua XV de Novembro,Apto 6,Porto Alegre,DF,28029,2024-05-25
+1203,Mariana,Gomes,2536 Alameda dos Anjos,Apto 160,São Paulo,PR,26148,2023-11-06
+1204,Diego,Vieira,3247 Travessa das Acácias,Apto 292,Brasília,PR,58824,2023-10-19
+1205,Gustavo,Araújo,9690 Rua do Comércio,Apto 369,Brasília,PR,51331,2022-01-23
+1206,Mariana,Araújo,3337 Rua XV de Novembro,Apto 234,Curitiba,DF,91390,2022-08-23
+1207,Ana,Araújo,6268 Rua do Comércio,Apto 361,Brasília,SP,30237,2023-01-18
+1208,Beatriz,Nunes,6581 Rua das Flores,Apto 475,Salvador,CE,45393,2023-02-10
+1209,Maria,Souza,6928 Travessa das Acácias,Apto 296,Fortaleza,BA,78915,2022-06-10
+1210,Camila,Teixeira,2681 Rua da Paz,Apto 89,São Paulo,RJ,82115,2022-10-22
+1211,Pedro,Barbosa,7032 Rua 7 de Setembro,Apto 271,Fortaleza,RS,33664,2024-08-29
+1212,Aline,Rodrigues,536 Avenida Brasil,Apto 245,São Paulo,RS,11957,2023-08-23
+1213,Felipe,Lima,831 Rua XV de Novembro,Apto 272,Salvador,BA,12229,2024-09-01
+1214,Maria,Teixeira,3122 Travessa das Acácias,Apto 331,São Paulo,DF,33084,2022-04-11
+1215,Maria,Cardoso,4260 Avenida Brasil,Apto 69,Rio de Janeiro,RJ,57651,2023-02-20
+1216,Lucas,Cardoso,2369 Rua das Flores,Apto 386,Rio de Janeiro,BA,85897,2024-05-11
+1217,Lucas,Pereira,9510 Rua 7 de Setembro,Apto 155,Brasília,RJ,60659,2022-10-06
+1218,João,Araújo,2903 Rua da Paz,Apto 224,São Paulo,RS,35254,2023-06-16
+1219,Maria,Santos,6524 Avenida Brasil,Apto 240,São Paulo,MG,65277,2023-11-08
+1220,Beatriz,Gomes,1417 Rua do Comércio,Apto 182,Belo Horizonte,DF,21287,2023-09-15
+1221,Diego,Cardoso,8167 Rua XV de Novembro,Apto 63,Porto Alegre,RS,77556,2022-11-29
+1222,Patrícia,Nunes,5711 Rua das Flores,Apto 388,Salvador,BA,51895,2024-04-13
+1223,Ana,Araújo,4724 Rua do Comércio,Apto 404,Curitiba,RJ,76865,2022-09-09
+1224,Bruno,Gomes,3760 Rua da Paz,Apto 360,Brasília,DF,58377,2024-01-20
+1225,Larissa,Barbosa,3284 Travessa das Acácias,Apto 338,Brasília,CE,54676,2022-09-21
+1226,Larissa,Ribeiro,3676 Rua XV de Novembro,Apto 149,Rio de Janeiro,CE,31434,2022-01-18
+1227,Lucas,Vieira,118 Avenida Central,Apto 151,Fortaleza,DF,76862,2024-06-07
+1228,Rafael,Oliveira,7983 Rua do Comércio,Apto 266,Fortaleza,MG,41061,2024-10-16
+1229,Maria,Cardoso,3207 Alameda dos Anjos,Apto 178,Rio de Janeiro,CE,37830,2024-10-10
+1230,João,Gomes,1824 Rua XV de Novembro,Apto 35,Belo Horizonte,BA,75209,2023-05-01
+1231,Beatriz,Oliveira,5463 Travessa das Acácias,Apto 98,Brasília,BA,25745,2023-08-20
+1232,Camila,Cardoso,53 Rua 7 de Setembro,Apto 222,Brasília,MG,70951,2022-11-16
+1233,Pedro,Nunes,8364 Rua da Paz,Apto 428,Salvador,MG,78126,2022-05-13
+1234,Leonardo,Nunes,8613 Rua da Paz,Apto 466,Fortaleza,DF,24217,2023-01-09
+1235,Bruno,Almeida,8708 Rua da Paz,Apto 362,Fortaleza,SP,99350,2023-07-21
+1236,Felipe,Silva,4890 Avenida Brasil,Apto 307,Porto Alegre,DF,34279,2023-08-30
+1237,Maria,Teixeira,9494 Avenida Brasil,Apto 51,Curitiba,BA,46407,2022-02-05
+1238,Diego,Ferreira,5066 Travessa das Acácias,Apto 266,Curitiba,RJ,21003,2022-01-16
+1239,Gustavo,Oliveira,332 Travessa das Acácias,Apto 372,Porto Alegre,BA,25252,2023-09-20
+1240,Aline,Martins,5982 Rua do Comércio,Apto 429,Rio de Janeiro,CE,85263,2024-04-22
+1241,João,Ribeiro,7527 Alameda dos Anjos,Apto 339,Fortaleza,PR,65194,2024-04-18
+1242,Diego,Mendes,6591 Rua XV de Novembro,Apto 137,Salvador,BA,53037,2023-04-14
+1243,Patrícia,Lima,8339 Rua 7 de Setembro,Apto 476,Curitiba,MG,56872,2023-09-01
+1244,Fernanda,Gomes,5273 Rua do Comércio,Apto 185,Porto Alegre,PR,26412,2024-09-15
+1245,Thiago,Ribeiro,2924 Rua 7 de Setembro,Apto 49,Porto Alegre,CE,47701,2023-03-16
+1246,Mariana,Barbosa,6779 Rua XV de Novembro,Apto 430,Rio de Janeiro,SP,94659,2023-03-13
+1247,Aline,Oliveira,4226 Avenida Brasil,Apto 164,Salvador,RJ,74245,2024-01-31
+1248,Patrícia,Costa,1611 Avenida Paulista,Apto 35,Belo Horizonte,CE,99299,2023-12-20
+1249,Bruno,Silva,8263 Rua 7 de Setembro,Apto 267,São Paulo,DF,27977,2023-06-26
+1250,Diego,Silva,90 Travessa das Acácias,Apto 391,Fortaleza,PR,23707,2022-11-25
+1251,Camila,Barbosa,6391 Rua do Comércio,Apto 339,Rio de Janeiro,MG,52675,2023-09-30
+1252,Rafael,Ferreira,9963 Rua do Comércio,Apto 78,Fortaleza,BA,95676,2022-10-02
+1253,Rafael,Lima,4714 Rua XV de Novembro,Apto 68,Belo Horizonte,MG,77205,2022-01-03
+1254,Fernanda,Teixeira,6796 Alameda dos Anjos,Apto 305,Rio de Janeiro,DF,17252,2023-08-15
+1255,Patrícia,Costa,9507 Avenida Brasil,Apto 256,Porto Alegre,SP,68370,2023-02-23
+1256,Patrícia,Martins,2143 Rua XV de Novembro,Apto 397,Brasília,PR,75806,2022-04-17
+1257,Lucas,Martins,2335 Travessa das Acácias,Apto 23,Curitiba,PR,50286,2022-10-16
+1258,Pedro,Oliveira,6057 Avenida Paulista,Apto 338,Belo Horizonte,RJ,94095,2024-12-28
+1259,Camila,Ferreira,8113 Travessa das Acácias,Apto 278,Fortaleza,MG,82034,2022-11-08
+1260,Thiago,Ribeiro,2908 Rua das Flores,Apto 46,Fortaleza,PR,28408,2023-07-20
+1261,Camila,Almeida,7565 Rua da Paz,Apto 182,Belo Horizonte,RS,62103,2023-05-28
+1262,Gustavo,Pereira,4404 Rua 7 de Setembro,Apto 272,Brasília,DF,53577,2023-05-09
+1263,Mariana,Oliveira,5932 Rua da Paz,Apto 442,Porto Alegre,RS,15672,2023-06-02
+1264,Leonardo,Vieira,9433 Rua XV de Novembro,Apto 443,Rio de Janeiro,DF,39746,2022-01-09
+1265,Ana,Mendes,7938 Rua XV de Novembro,Apto 340,Curitiba,DF,41182,2023-05-21
+1266,Diego,Teixeira,1907 Rua do Comércio,Apto 278,Brasília,CE,76365,2023-02-21
+1267,Aline,Cardoso,3567 Rua 7 de Setembro,Apto 31,Porto Alegre,PR,12230,2024-11-13
+1268,Beatriz,Santos,3704 Avenida Central,Apto 385,Brasília,RJ,19086,2023-06-18
+1269,Leonardo,Ferreira,6313 Avenida Central,Apto 68,Brasília,DF,50971,2023-06-24
+1270,Patrícia,Lima,7845 Alameda dos Anjos,Apto 115,Porto Alegre,RJ,66268,2024-10-02
+1271,Gustavo,Araújo,5363 Alameda dos Anjos,Apto 63,Brasília,RJ,40279,2024-04-09
+1272,Beatriz,Pereira,3406 Travessa das Acácias,Apto 178,São Paulo,RS,24296,2022-03-24
+1273,Maria,Vieira,4545 Rua das Flores,Apto 158,Rio de Janeiro,DF,18966,2023-08-10
+1274,Ana,Lima,8532 Travessa das Acácias,Apto 274,Salvador,BA,52985,2022-01-27
+1275,Camila,Souza,6375 Avenida Brasil,Apto 165,Curitiba,RS,61703,2023-03-05
+1276,Lucas,Gomes,569 Rua das Flores,Apto 280,Curitiba,DF,30034,2024-06-28
+1277,Patrícia,Nunes,5933 Avenida Brasil,Apto 349,Brasília,MG,85558,2024-01-11
+1278,Maria,Lima,6660 Travessa das Acácias,Apto 258,Fortaleza,CE,98288,2023-04-27
+1279,Leonardo,Vieira,9216 Alameda dos Anjos,Apto 56,Brasília,RS,86177,2022-05-26
+1280,Leonardo,Mendes,3466 Rua do Comércio,Apto 134,Curitiba,MG,19610,2024-09-11
+1281,Pedro,Pereira,2125 Rua XV de Novembro,Apto 498,Rio de Janeiro,RJ,53946,2022-05-24
+1282,Rafael,Pereira,5268 Rua do Comércio,Apto 315,Fortaleza,SP,61632,2024-04-10
+1283,Diego,Gomes,3553 Rua do Comércio,Apto 127,Rio de Janeiro,BA,43001,2023-04-07
+1284,Larissa,Silva,4415 Avenida Central,Apto 69,Brasília,MG,53025,2022-06-25
+1285,Pedro,Oliveira,2596 Avenida Central,Apto 223,Fortaleza,RJ,17614,2022-04-17
+1286,Bruno,Rodrigues,1846 Rua da Paz,Apto 379,Belo Horizonte,RJ,42093,2022-01-11
+1287,Beatriz,Pereira,5450 Rua 7 de Setembro,Apto 323,Curitiba,SP,11647,2022-08-13
+1288,Rafael,Pereira,9211 Avenida Central,Apto 208,Belo Horizonte,SP,40662,2022-11-15
+1289,Maria,Barbosa,2132 Travessa das Acácias,Apto 14,Salvador,RJ,52230,2022-03-30
+1290,Lucas,Costa,8348 Alameda dos Anjos,Apto 419,Rio de Janeiro,SP,36173,2022-02-08
+1291,Pedro,Oliveira,1773 Avenida Central,Apto 228,Salvador,CE,61336,2023-10-11
+1292,Beatriz,Ribeiro,9489 Avenida Central,Apto 127,Salvador,RJ,33830,2024-02-22
+1293,Ana,Mendes,2931 Rua 7 de Setembro,Apto 259,São Paulo,BA,35278,2024-06-13
+1294,Leonardo,Santos,7469 Rua do Comércio,Apto 79,Curitiba,DF,66555,2022-02-11
+1295,Aline,Ferreira,6418 Alameda dos Anjos,Apto 353,Curitiba,PR,88513,2023-06-12
+1296,Aline,Cardoso,2404 Travessa das Acácias,Apto 93,Belo Horizonte,PR,24702,2023-03-08
+1297,Larissa,Vieira,6675 Avenida Central,Apto 287,Fortaleza,PR,83108,2023-06-20
+1298,Beatriz,Lima,9903 Rua das Flores,Apto 13,Porto Alegre,SP,16529,2024-09-14
+1299,Mariana,Barbosa,8642 Avenida Paulista,Apto 431,Belo Horizonte,MG,84401,2023-09-02
+1300,Pedro,Costa,3546 Avenida Paulista,Apto 275,Salvador,RJ,68001,2023-06-18
+1301,Felipe,Lima,4415 Rua 7 de Setembro,Apto 54,Curitiba,RS,23557,2023-03-12
+1302,Gustavo,Mendes,5338 Rua XV de Novembro,Apto 122,Curitiba,DF,35080,2023-04-07
+1303,Gustavo,Oliveira,8863 Rua da Paz,Apto 324,Fortaleza,BA,74998,2023-01-31
+1304,Fernanda,Gomes,1114 Rua XV de Novembro,Apto 376,Brasília,SP,93764,2024-04-24
+1305,Camila,Costa,7821 Rua da Paz,Apto 11,Salvador,PR,51060,2022-04-08
+1306,Camila,Ribeiro,4154 Rua 7 de Setembro,Apto 448,Brasília,BA,45193,2022-11-18
+1307,Mariana,Martins,3142 Rua 7 de Setembro,Apto 469,Belo Horizonte,RS,97586,2023-08-28
+1308,Rafael,Santos,2696 Avenida Brasil,Apto 142,Rio de Janeiro,SP,69063,2023-01-05
+1309,Thiago,Barbosa,1706 Avenida Paulista,Apto 319,Rio de Janeiro,PR,86547,2023-08-05
+1310,Camila,Teixeira,2369 Rua do Comércio,Apto 4,Rio de Janeiro,RJ,46361,2024-02-15
+1311,Fernanda,Silva,9740 Rua da Paz,Apto 154,Salvador,PR,37547,2023-01-19
+1312,Beatriz,Costa,2563 Avenida Paulista,Apto 401,Salvador,PR,15835,2022-07-07
+1313,Ana,Souza,2388 Avenida Paulista,Apto 223,São Paulo,RS,22400,2023-04-20
+1314,Pedro,Souza,3646 Rua XV de Novembro,Apto 461,Belo Horizonte,CE,59395,2024-05-06
+1315,Camila,Rodrigues,6119 Avenida Paulista,Apto 335,Fortaleza,BA,97784,2023-12-20
+1316,Lucas,Almeida,7611 Avenida Brasil,Apto 462,Belo Horizonte,RJ,65912,2023-06-16
+1317,Thiago,Almeida,7564 Rua do Comércio,Apto 9,Rio de Janeiro,BA,19705,2022-11-13
+1318,Patrícia,Araújo,7483 Alameda dos Anjos,Apto 38,Brasília,PR,72213,2023-06-04
+1319,Felipe,Barbosa,454 Rua da Paz,Apto 430,Rio de Janeiro,SP,97776,2022-11-14
+1320,Diego,Ribeiro,2986 Avenida Paulista,Apto 217,Fortaleza,SP,35988,2022-05-12
+1321,Larissa,Silva,6145 Avenida Central,Apto 251,Porto Alegre,DF,81158,2024-09-10
+1322,Maria,Almeida,592 Travessa das Acácias,Apto 91,Curitiba,CE,20661,2022-10-22
+1323,Diego,Pereira,8388 Rua da Paz,Apto 322,São Paulo,CE,18916,2024-12-11
+1324,Diego,Souza,4666 Rua XV de Novembro,Apto 432,Fortaleza,MG,78341,2023-04-25
+1325,Thiago,Ferreira,3798 Rua das Flores,Apto 76,Porto Alegre,RS,69671,2023-10-27
+1326,Diego,Costa,5852 Avenida Central,Apto 144,Curitiba,CE,76513,2024-04-15
+1327,Beatriz,Lima,9866 Avenida Central,Apto 109,Salvador,DF,80857,2023-05-27
+1328,Larissa,Lima,780 Alameda dos Anjos,Apto 154,Porto Alegre,CE,61971,2023-01-21
+1329,Aline,Nunes,4242 Rua da Paz,Apto 79,Rio de Janeiro,MG,84289,2022-05-16
+1330,Bruno,Araújo,9033 Rua da Paz,Apto 289,São Paulo,BA,67144,2022-07-18
+1331,Fernanda,Nunes,1451 Avenida Paulista,Apto 246,Curitiba,CE,18925,2023-09-04
+1332,Beatriz,Vieira,5751 Travessa das Acácias,Apto 84,São Paulo,SP,43178,2022-10-14
+1333,Lucas,Mendes,1893 Avenida Paulista,Apto 253,Salvador,CE,46426,2023-11-01
+1334,Leonardo,Almeida,245 Rua das Flores,Apto 110,Belo Horizonte,RJ,53881,2022-11-30
+1335,Mariana,Souza,9408 Rua 7 de Setembro,Apto 28,Salvador,DF,39887,2023-04-01
+1336,Beatriz,Silva,9425 Avenida Paulista,Apto 25,Curitiba,SP,98727,2024-05-09
+1337,Beatriz,Martins,4420 Avenida Central,Apto 220,Rio de Janeiro,RJ,47910,2023-03-22
+1338,Thiago,Santos,9580 Rua 7 de Setembro,Apto 458,Curitiba,DF,45292,2023-12-16
+1339,Aline,Oliveira,6978 Avenida Brasil,Apto 244,Salvador,BA,33762,2023-08-15
+1340,Gustavo,Lima,8691 Rua XV de Novembro,Apto 48,Rio de Janeiro,DF,53139,2023-11-14
+1341,Lucas,Oliveira,2774 Rua XV de Novembro,Apto 56,Fortaleza,RS,89453,2022-05-24
+1342,Fernanda,Teixeira,6831 Rua XV de Novembro,Apto 279,Curitiba,MG,67713,2022-11-11
+1343,Patrícia,Santos,6731 Rua 7 de Setembro,Apto 376,Salvador,SP,32273,2022-07-03
+1344,Larissa,Souza,8276 Rua 7 de Setembro,Apto 155,Rio de Janeiro,PR,98148,2023-04-03
+1345,Aline,Gomes,9294 Rua XV de Novembro,Apto 409,Rio de Janeiro,RJ,71581,2023-03-18
+1346,Pedro,Mendes,9139 Rua do Comércio,Apto 4,Rio de Janeiro,RS,20428,2023-04-21
+1347,Camila,Silva,794 Avenida Paulista,Apto 194,Brasília,RS,97975,2023-09-13
+1348,Diego,Araújo,7860 Rua das Flores,Apto 497,Curitiba,RJ,95569,2023-10-15
+1349,Maria,Mendes,6905 Rua da Paz,Apto 340,Belo Horizonte,SP,92533,2023-08-28
+1350,Mariana,Rodrigues,64 Avenida Central,Apto 346,São Paulo,RJ,42675,2022-09-08
+1351,Pedro,Oliveira,7206 Avenida Paulista,Apto 171,Rio de Janeiro,CE,64851,2022-07-20
+1352,Gustavo,Ferreira,3994 Avenida Paulista,Apto 327,Salvador,DF,70536,2023-01-13
+1353,Aline,Oliveira,6949 Rua XV de Novembro,Apto 470,Rio de Janeiro,CE,79309,2023-06-16
+1354,Lucas,Souza,119 Alameda dos Anjos,Apto 92,Rio de Janeiro,MG,59342,2022-04-17
+1355,Bruno,Vieira,7526 Avenida Central,Apto 13,Rio de Janeiro,PR,69685,2022-03-23
+1356,Diego,Nunes,3732 Rua do Comércio,Apto 236,Rio de Janeiro,CE,21951,2023-02-16
+1357,Larissa,Rodrigues,3337 Travessa das Acácias,Apto 204,Salvador,PR,99114,2024-02-02
+1358,Thiago,Lima,1811 Rua do Comércio,Apto 466,Salvador,SP,90188,2022-07-04
+1359,Camila,Araújo,822 Rua XV de Novembro,Apto 385,Curitiba,PR,25481,2023-06-24
+1360,Fernanda,Nunes,9129 Avenida Brasil,Apto 317,Belo Horizonte,PR,64621,2024-12-08
+1361,Carla,Oliveira,444 Travessa das Acácias,Apto 224,Salvador,CE,37544,2023-12-13
+1362,Mariana,Costa,771 Avenida Central,Apto 400,Porto Alegre,RS,93145,2024-10-10
+1363,Bruno,Pereira,2648 Rua XV de Novembro,Apto 154,Fortaleza,RJ,52832,2023-05-06
+1364,Rafael,Vieira,7245 Avenida Paulista,Apto 90,São Paulo,BA,13529,2024-09-06
+1365,Thiago,Cardoso,3952 Avenida Central,Apto 267,Brasília,CE,41364,2022-11-16
+1366,Rafael,Martins,3286 Alameda dos Anjos,Apto 319,Belo Horizonte,PR,61682,2024-07-27
+1367,Fernanda,Barbosa,5307 Avenida Brasil,Apto 364,Rio de Janeiro,SP,55248,2022-03-10
+1368,Lucas,Lima,4921 Avenida Paulista,Apto 153,Fortaleza,RJ,58177,2022-10-19
+1369,Larissa,Ferreira,6387 Rua da Paz,Apto 90,Rio de Janeiro,RJ,59994,2022-08-15
+1370,Camila,Oliveira,3014 Rua 7 de Setembro,Apto 95,Fortaleza,DF,85418,2024-03-13
+1371,Carla,Gomes,508 Avenida Central,Apto 414,Belo Horizonte,SP,82510,2022-12-20
+1372,Rafael,Barbosa,5735 Rua da Paz,Apto 185,Belo Horizonte,BA,77243,2022-12-24
+1373,Maria,Almeida,1532 Avenida Brasil,Apto 477,Belo Horizonte,PR,39420,2022-04-15
+1374,Leonardo,Rodrigues,7093 Rua da Paz,Apto 312,Porto Alegre,PR,93473,2022-10-09
+1375,Carla,Nunes,269 Alameda dos Anjos,Apto 465,São Paulo,RJ,52333,2024-10-10
+1376,Ana,Oliveira,8498 Travessa das Acácias,Apto 263,Brasília,MG,87199,2023-10-30
+1377,Mariana,Oliveira,272 Rua 7 de Setembro,Apto 93,Curitiba,DF,43937,2024-02-22
+1378,Felipe,Ferreira,2159 Avenida Paulista,Apto 389,Porto Alegre,BA,56136,2022-06-03
+1379,Patrícia,Teixeira,1748 Rua XV de Novembro,Apto 281,Belo Horizonte,MG,52773,2024-11-07
+1380,Carla,Almeida,255 Rua do Comércio,Apto 467,São Paulo,SP,93602,2023-08-07
+1381,Larissa,Cardoso,1978 Rua do Comércio,Apto 428,Brasília,MG,51483,2022-01-02
+1382,Carla,Pereira,7312 Rua 7 de Setembro,Apto 469,Fortaleza,CE,67014,2023-03-18
+1383,Larissa,Cardoso,1934 Rua da Paz,Apto 326,Fortaleza,DF,51891,2024-05-13
+1384,Aline,Santos,9795 Avenida Central,Apto 303,São Paulo,RS,67505,2022-12-24
+1385,Lucas,Silva,4756 Rua da Paz,Apto 361,Porto Alegre,SP,84842,2023-03-11
+1386,Bruno,Silva,7372 Rua da Paz,Apto 449,Porto Alegre,DF,99454,2022-10-25
+1387,Ana,Santos,7352 Rua das Flores,Apto 318,Fortaleza,BA,27137,2022-07-12
+1388,Fernanda,Almeida,8228 Rua 7 de Setembro,Apto 280,Fortaleza,RS,60624,2022-03-12
+1389,Leonardo,Silva,3828 Rua do Comércio,Apto 264,Belo Horizonte,CE,43676,2022-02-16
+1390,Lucas,Lima,6231 Rua das Flores,Apto 256,Fortaleza,MG,58510,2024-05-03
+1391,Carla,Teixeira,8289 Avenida Paulista,Apto 236,Porto Alegre,RS,99696,2024-11-14
+1392,Beatriz,Cardoso,8972 Rua das Flores,Apto 382,Brasília,PR,21783,2022-06-03
+1393,Pedro,Martins,3689 Rua 7 de Setembro,Apto 307,Fortaleza,MG,16493,2022-12-18
+1394,Patrícia,Santos,6781 Avenida Brasil,Apto 470,Fortaleza,CE,47172,2024-07-25
+1395,Carla,Cardoso,9949 Travessa das Acácias,Apto 153,Rio de Janeiro,RS,92453,2024-01-27
+1396,Pedro,Pereira,1416 Rua 7 de Setembro,Apto 204,Porto Alegre,CE,50979,2022-01-31
+1397,Beatriz,Costa,9091 Avenida Central,Apto 216,Salvador,PR,74465,2024-06-02
+1398,Felipe,Teixeira,3717 Travessa das Acácias,Apto 218,Belo Horizonte,CE,57637,2023-06-30
+1399,Felipe,Oliveira,3507 Travessa das Acácias,Apto 419,São Paulo,MG,50376,2024-06-25
+1400,Aline,Martins,5619 Travessa das Acácias,Apto 337,Curitiba,PR,62376,2022-03-16
+1401,Gustavo,Nunes,9463 Avenida Central,Apto 308,Fortaleza,BA,65591,2022-03-04
+1402,Leonardo,Santos,5612 Rua das Flores,Apto 361,Brasília,MG,43462,2022-12-03
+1403,Rafael,Almeida,9574 Alameda dos Anjos,Apto 372,Curitiba,BA,63905,2023-02-09
+1404,Lucas,Lima,4721 Travessa das Acácias,Apto 343,Curitiba,RS,47227,2023-11-25
+1405,Leonardo,Silva,1242 Avenida Brasil,Apto 373,Porto Alegre,SP,25977,2023-11-02
+1406,Larissa,Rodrigues,9130 Rua 7 de Setembro,Apto 476,Fortaleza,PR,34022,2024-12-19
+1407,Bruno,Pereira,628 Travessa das Acácias,Apto 43,Salvador,DF,58719,2024-05-12
+1408,Pedro,Barbosa,47 Alameda dos Anjos,Apto 446,Curitiba,BA,44868,2024-01-27
+1409,Maria,Araújo,8795 Rua 7 de Setembro,Apto 101,Porto Alegre,CE,43435,2023-08-30
+1410,Larissa,Ribeiro,6152 Rua 7 de Setembro,Apto 195,Rio de Janeiro,BA,44459,2023-08-09
+1411,João,Ferreira,5181 Rua XV de Novembro,Apto 139,Belo Horizonte,MG,86753,2023-03-17
+1412,Camila,Pereira,9951 Rua do Comércio,Apto 472,Rio de Janeiro,RS,89007,2024-05-01
+1413,Carla,Gomes,3130 Avenida Central,Apto 366,Salvador,CE,10717,2022-07-20
+1414,Gustavo,Pereira,1434 Avenida Central,Apto 244,Curitiba,MG,84259,2023-12-24
+1415,Diego,Cardoso,3717 Rua do Comércio,Apto 382,São Paulo,RS,68382,2022-04-28
+1416,Rafael,Teixeira,1040 Rua da Paz,Apto 473,São Paulo,DF,92910,2024-07-07
+1417,Felipe,Souza,1223 Rua da Paz,Apto 320,Brasília,PR,62948,2023-08-16
+1418,Pedro,Souza,5942 Avenida Central,Apto 433,Brasília,BA,66668,2024-12-18
+1419,Felipe,Ferreira,9346 Avenida Paulista,Apto 223,São Paulo,RJ,82232,2023-06-27
+1420,Gustavo,Souza,8005 Avenida Central,Apto 238,Brasília,MG,88702,2023-09-03
+1421,Rafael,Gomes,2497 Alameda dos Anjos,Apto 219,São Paulo,RS,19481,2023-07-22
+1422,Pedro,Cardoso,5513 Travessa das Acácias,Apto 103,Belo Horizonte,PR,90635,2024-12-14
+1423,Mariana,Martins,1434 Avenida Central,Apto 149,São Paulo,SP,16006,2023-09-08
+1424,Camila,Rodrigues,7024 Travessa das Acácias,Apto 12,Brasília,RJ,46429,2023-09-10
+1425,Maria,Ferreira,2820 Avenida Brasil,Apto 130,Curitiba,RJ,75541,2022-10-10
+1426,Mariana,Ferreira,8128 Alameda dos Anjos,Apto 363,Rio de Janeiro,DF,22503,2022-11-08
+1427,Leonardo,Silva,5278 Rua do Comércio,Apto 367,Belo Horizonte,MG,28963,2024-09-29
+1428,Pedro,Ferreira,3608 Avenida Paulista,Apto 456,Brasília,MG,11602,2023-12-26
+1429,Camila,Ferreira,4061 Avenida Central,Apto 114,São Paulo,SP,53113,2024-11-12
+1430,Camila,Ribeiro,9031 Avenida Brasil,Apto 499,Brasília,CE,87543,2023-02-03
+1431,Thiago,Lima,5006 Rua XV de Novembro,Apto 489,São Paulo,PR,63057,2023-12-07
+1432,Larissa,Nunes,7615 Travessa das Acácias,Apto 243,Curitiba,BA,53917,2023-04-16
+1433,João,Santos,2284 Rua das Flores,Apto 88,Curitiba,MG,91421,2024-02-27
+1434,Pedro,Almeida,7951 Avenida Brasil,Apto 63,São Paulo,SP,74283,2023-03-24
+1435,Mariana,Martins,9893 Avenida Central,Apto 476,Belo Horizonte,MG,37018,2024-06-18
+1436,Patrícia,Souza,5317 Alameda dos Anjos,Apto 110,Fortaleza,BA,16911,2022-03-18
+1437,Patrícia,Oliveira,3204 Rua do Comércio,Apto 380,Rio de Janeiro,CE,99483,2022-05-20
+1438,Carla,Nunes,4378 Rua da Paz,Apto 107,Belo Horizonte,CE,15662,2022-11-20
+1439,Pedro,Teixeira,9647 Rua da Paz,Apto 302,Curitiba,RJ,47082,2022-03-01
+1440,Camila,Teixeira,5903 Avenida Central,Apto 412,Curitiba,BA,51400,2022-06-16
+1441,Thiago,Lima,2458 Avenida Central,Apto 269,São Paulo,RS,22396,2024-05-01
+1442,Leonardo,Silva,165 Rua da Paz,Apto 137,Rio de Janeiro,SP,98489,2024-03-17
+1443,Mariana,Cardoso,1437 Rua da Paz,Apto 73,Curitiba,DF,93117,2022-07-19
+1444,Rafael,Nunes,7996 Avenida Brasil,Apto 259,Belo Horizonte,DF,10900,2022-11-18
+1445,Gustavo,Pereira,6980 Alameda dos Anjos,Apto 329,Curitiba,BA,16896,2023-07-16
+1446,Larissa,Costa,3160 Rua 7 de Setembro,Apto 211,Curitiba,CE,40904,2022-01-21
+1447,Maria,Vieira,441 Rua do Comércio,Apto 188,Curitiba,RS,38400,2022-07-13
+1448,Patrícia,Araújo,3011 Avenida Brasil,Apto 426,São Paulo,SP,45179,2024-02-28
+1449,Rafael,Silva,3542 Rua do Comércio,Apto 113,Porto Alegre,RS,79880,2022-02-20
+1450,Pedro,Pereira,4384 Rua da Paz,Apto 212,Belo Horizonte,CE,14008,2022-06-20
+1451,Ana,Rodrigues,1150 Rua 7 de Setembro,Apto 254,Salvador,BA,99167,2022-02-10
+1452,Beatriz,Mendes,5527 Rua das Flores,Apto 212,Fortaleza,SP,54800,2024-03-04
+1453,Pedro,Rodrigues,9803 Rua 7 de Setembro,Apto 210,Belo Horizonte,BA,72043,2024-08-29
+1454,Pedro,Lima,5967 Avenida Brasil,Apto 273,Fortaleza,SP,12969,2022-07-06
+1455,Pedro,Costa,3644 Avenida Brasil,Apto 301,Rio de Janeiro,SP,38955,2023-05-14
+1456,Maria,Santos,9552 Alameda dos Anjos,Apto 10,Belo Horizonte,PR,58569,2022-05-02
+1457,Gustavo,Nunes,1648 Rua das Flores,Apto 91,Fortaleza,RS,90051,2023-02-24
+1458,Bruno,Mendes,242 Travessa das Acácias,Apto 205,Rio de Janeiro,PR,23698,2023-04-29
+1459,Maria,Vieira,3251 Avenida Paulista,Apto 212,Fortaleza,RJ,10952,2023-06-11
+1460,Carla,Gomes,7067 Avenida Central,Apto 297,São Paulo,RS,19276,2024-08-05
+1461,Felipe,Nunes,3318 Alameda dos Anjos,Apto 150,Fortaleza,PR,95937,2022-10-20
+1462,Fernanda,Almeida,3006 Rua das Flores,Apto 28,Porto Alegre,PR,56816,2024-02-09
+1463,Aline,Silva,9457 Rua do Comércio,Apto 176,Salvador,DF,93057,2022-07-01
+1464,Ana,Pereira,2977 Avenida Paulista,Apto 483,Fortaleza,RS,39355,2024-03-13
+1465,João,Santos,9772 Alameda dos Anjos,Apto 53,Porto Alegre,BA,18190,2023-02-16
+1466,Ana,Costa,185 Rua do Comércio,Apto 147,Rio de Janeiro,DF,87556,2023-12-18
+1467,Diego,Barbosa,3459 Avenida Paulista,Apto 213,Curitiba,CE,39020,2022-09-17
+1468,Lucas,Souza,7609 Avenida Paulista,Apto 441,São Paulo,SP,41400,2023-02-22
+1469,Maria,Silva,5368 Travessa das Acácias,Apto 284,Curitiba,MG,69524,2022-11-06
+1470,Fernanda,Lima,3026 Rua da Paz,Apto 286,Salvador,MG,15946,2024-03-12
+1471,Fernanda,Araújo,1620 Travessa das Acácias,Apto 56,São Paulo,SP,48050,2023-04-07
+1472,Patrícia,Nunes,7202 Travessa das Acácias,Apto 172,Salvador,RS,52687,2022-10-06
+1473,Ana,Rodrigues,7526 Rua 7 de Setembro,Apto 100,Porto Alegre,RS,15312,2022-01-08
+1474,Larissa,Silva,1457 Rua do Comércio,Apto 214,Porto Alegre,RJ,55121,2022-05-21
+1475,Thiago,Lima,8197 Rua das Flores,Apto 369,Curitiba,MG,67542,2022-04-29
+1476,Carla,Rodrigues,7890 Rua do Comércio,Apto 92,São Paulo,RS,96288,2024-03-28
+1477,Diego,Souza,2429 Rua XV de Novembro,Apto 468,Rio de Janeiro,DF,50384,2023-11-25
+1478,Pedro,Mendes,708 Alameda dos Anjos,Apto 108,Brasília,RJ,17185,2024-05-25
+1479,Mariana,Santos,9269 Avenida Paulista,Apto 226,Brasília,BA,38850,2023-02-28
+1480,Fernanda,Gomes,7003 Rua das Flores,Apto 123,Brasília,CE,54825,2023-06-22
+1481,Diego,Souza,5314 Avenida Paulista,Apto 318,Porto Alegre,RJ,53765,2023-03-22
+1482,Carla,Lima,7487 Avenida Paulista,Apto 364,Belo Horizonte,RS,19063,2023-05-08
+1483,Ana,Araújo,7754 Avenida Paulista,Apto 78,Porto Alegre,CE,80550,2024-04-02
+1484,Bruno,Barbosa,1593 Rua do Comércio,Apto 365,Curitiba,MG,61236,2022-10-18
+1485,Larissa,Almeida,3723 Rua XV de Novembro,Apto 98,Belo Horizonte,CE,89744,2022-09-18
+1486,Pedro,Silva,4458 Rua 7 de Setembro,Apto 185,Porto Alegre,MG,63452,2023-10-08
+1487,João,Vieira,1843 Rua do Comércio,Apto 233,Curitiba,BA,43083,2022-11-21
+1488,Maria,Teixeira,7130 Rua das Flores,Apto 50,São Paulo,DF,41478,2023-10-26
+1489,Larissa,Teixeira,5193 Rua do Comércio,Apto 205,Rio de Janeiro,DF,36454,2024-04-16
+1490,Camila,Nunes,6399 Travessa das Acácias,Apto 199,Fortaleza,PR,17119,2023-10-30
+1491,Mariana,Rodrigues,5678 Alameda dos Anjos,Apto 363,Brasília,PR,64919,2024-09-15
+1492,Thiago,Costa,6788 Rua da Paz,Apto 125,São Paulo,BA,10549,2024-09-13
+1493,Diego,Martins,1841 Travessa das Acácias,Apto 472,Rio de Janeiro,PR,72518,2022-06-11
+1494,Bruno,Ferreira,4469 Avenida Central,Apto 352,São Paulo,PR,33998,2023-09-25
+1495,Aline,Santos,1509 Alameda dos Anjos,Apto 146,Curitiba,RS,83667,2024-11-02
+1496,Mariana,Martins,3716 Avenida Paulista,Apto 234,Rio de Janeiro,MG,77193,2023-09-06
+1497,Rafael,Ferreira,9682 Rua do Comércio,Apto 85,Curitiba,PR,17757,2024-06-01
+1498,Fernanda,Araújo,4469 Avenida Brasil,Apto 290,Fortaleza,RJ,94846,2024-12-13
+1499,Camila,Ribeiro,4973 Rua da Paz,Apto 394,Belo Horizonte,SP,80864,2024-09-06
+1000,Camila,Oliveira,2977 Rua do Comércio,Apto 124,Belo Horizonte,RS,66366,2022-03-17
+1243,,Lima,8339 Rua 7 de Setembro,Apto 476,Curitiba,MG,56872,2023-09-01
+1168,Felipe,Silva,8399 Avenida Paulista,Apto 64,Curitiba,RJ,123456,2024-03-19
+1022,Maria,Ferreira,2979 Avenida Paulista,Apto 380,Salvador,PR,52875,31-12-2022
+1001,Duplicado,Lima,428 Avenida Brasil,Apto 173,Belo Horizonte,RS,85305,2022-09-06
