@@ -156,3 +156,5 @@
 {"timestamp":"2025-06-23T17:16:00.386471","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/welcome.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-23T17:16:31.031413","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/welcome.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-23T17:17:01.529170","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/welcome.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-23T17:17:32.354419","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/welcome.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-23T17:18:03.280315","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/welcome.py","logger":"airflow.models.dagbag.DagBag"}
