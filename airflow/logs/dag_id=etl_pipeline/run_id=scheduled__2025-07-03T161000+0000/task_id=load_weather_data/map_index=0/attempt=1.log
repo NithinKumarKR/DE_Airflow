@@ -1,0 +1,5 @@
+{"timestamp":"2025-07-03T16:10:09.689829","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-03T16:10:09.691023","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weathers.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-03T16:10:09.880597","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-07-03T16:10:10.212708","level":"info","event":"Connection Retrieved 'mysql_airflow'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-03T16:10:10.280660","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}

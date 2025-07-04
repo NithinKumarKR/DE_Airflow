@@ -1,4 +1,4 @@
-version: '3'
+#version: '3'
 
 services:
 
@@ -6,6 +6,7 @@ services:
     image: airflow:latest
     volumes:
       - ./airflow:/opt/airflow
+      - ./data:/opt/airflow/data 
     ports:
       - "8080:8080"
     command: airflow standalone

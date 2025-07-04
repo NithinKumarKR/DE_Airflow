@@ -43,4 +43,19 @@ with DAG(
         cursor.close()
         conn.close()
 
+    @task()
+    def source_reading_tables():
+        mysql_hook = MySqlHook(mysql_conn_id=mysql_conn_id)
+        conn = mysql_hook.get_conn()
+        cursor = conn.cursor()
+
+        cursor.execute("""
+            select * from 
+        """)
+
+        conn.commit()
+        cursor.close()
+        conn.close()
+
+    source_reading_tables()
     reading_tables()
